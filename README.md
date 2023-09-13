@@ -1,2 +1,3 @@
-This is compelete dyanimc and responsive online reading here you can read the online books.I made this dynamic website by using PHP,Bootstrap4,HTML5 with Mysql databse.I also attached a small video about this project so you can see the result.
+This is compelete dyanimc and responsive online reading here you can read the online books.I made this dynamic website by using PHP,Bootstrap4,HTML5 with Mysql databse.I also add here a proper validation for inserting a data with unique email_id and encrypted password with smoothly working login and logout process.
+I also attached a small video about this project so you can see the result.I also working on more projects with other language and keep improving my skills ,so stay tune!!!!
 Thanks for your patience.Have nice day!!!
